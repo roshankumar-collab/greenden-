@@ -1,21 +1,14 @@
-Greenden Frontend
+## Greenden-site
+- Greenden is a responsive website designed to showcase sustainable and eco-friendly plants and gardening products. The website features a modern, clean layout with a navigation menu, a contact form, and a product showcase section.
 
-Greenden is a modern and responsive plant shop frontend website designed to provide a clean and user-friendly shopping experience. This project showcases an elegant UI with responsive layouts, attractive product sections, and smooth navigation.
-
-Features
-Responsive design for all devices
-Modern and clean user interface
-Product showcase sections
-Easy navigation menu
-Stylish landing page design
-Technologies Used
-HTML5
-CSS3
-JavaScript
-Purpose
-
-This project was created to practice frontend web development skills and build a visually appealing e-commerce style website.
-
-Author
-
-Developed by [Your Name]
+##Features
+-- Responsive Design: Optimized for all screen sizes, including mobile and desktop views.
+Product Showcase: Display various eco-friendly plants and gardening products.
+-- Contact Form: Users can easily contact the team for sales inquiries.
+-- Navigation: Clear and user-friendly navigation to different sections of the website (Home, Products, Contact).
+##Technologies Used
+-- HTML: Structuring the website content.
+-- CSS: Styling the website with a modern, clean design using Tailwind CSS.
+-- Tailwind CSS: A utility-first CSS framework for responsive design.
+## How to Run the Project Locally
+Clone the repository:
