@@ -11,4 +11,4 @@ Product Showcase: Display various eco-friendly plants and gardening products.
 - CSS: Styling the website with a modern, clean design using Tailwind CSS.
 - Tailwind CSS: A utility-first CSS framework for responsive design.
 ## How to Run the Project Locally
-Clone the repository:
+Clone the repository: https://roshankumar-collab.github.io/greenden-/
